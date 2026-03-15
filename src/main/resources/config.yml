@@ -1,0 +1,54 @@
+chat:
+  deny-message: "&a&lLOBBY &8| &cA csevegés használata itt le van tiltva!"
+
+message:
+  deny-message: "&a&lLOBBY &8| &cEzt itt nem teheted meg!"
+
+lobby:
+  success: "&a&lLOBBY &8| &fLobby pont &asikeresen &fbeállítva!"
+  world: 'N/A'
+  x: 'N/A'
+  y: 'N/A'
+  z: 'N/A'
+  yaw: 'N/A'
+  pitch: 'N/A'
+
+launchpad:
+  success: "&a&lLOBBY &8| &fLauchad &asikeresen &fbeállítva!"
+  power: 2.5
+  powery: 1
+  world: 'N/A'
+  x: 'N/A'
+  y: 'N/A'
+  z: 'N/A'
+
+
+items:
+  infobook:
+    material: BOOK
+    slot: 2
+    name: "&bInformációk &7(Jobb klikk)"
+    lore:
+      - "&fTekintsd meg a szerver elérhetőségeit!"
+      - "&7(Jobb klikk a használathoz)"
+    message:
+      - "      &a&lINFORMÁCIÓK      "
+      - ""
+      - "&aTeamSpeak&8: &fts.minevoid.hu"
+      - "&aDiscord&8: &fdc.minevoid.hu"
+      - "&aWeboldal&8: &fwww.minevoid.hu"
+  teleportbow:
+    material: BOW
+    slot: 6
+    cooldown: 10
+    name: "&aTeleport íj &7(Jobb klikk)"
+    lore:
+      - "&fTeleportálj oda ahova lősz!"
+      - "&7(Jobb klikk a használathoz)"
+  serverselector:
+    material: NETHER_STAR
+    slot: 4
+    name: "&eSzerver Választó &7(Jobb klikk)"
+    lore:
+      - "&fVálaszd ki a szervert ahol játszani szeretnél!"
+      - "&7(Jobb klikk a használathoz)"

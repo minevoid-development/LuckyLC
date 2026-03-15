@@ -1,0 +1,29 @@
+name: LuckyLC
+version: '1.0-SNAPSHOT'
+main: hu.darkcode.dev.luckyLC.Main
+api-version: '1.21'
+authors: [ DarkCode ]
+
+commands:
+  setlobby:
+    description: Lobby pont beállítása!
+    permission: luckylc.setlobby
+  setlaunchpad:
+    description: Launchpad pont beállítása!
+    permission: luckylc.setlaunchpad
+  gamemode:
+    description: Játékmód váltás!
+    permission: luckylc.gamemode
+    aliases: [gm]
+  gms:
+    description: Survival mód
+    permission: luckylc.gamemode
+  gmc:
+    description: Creative mód
+    permission: luckylc.gamemode
+  gma:
+    description: Adventure mód
+    permission: luckylc.gamemode
+  gmsp:
+    description: Spectator mód
+    permission: luckylc.gamemode

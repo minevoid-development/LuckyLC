@@ -1,0 +1,41 @@
+gui:
+  title: "&eSzerver Választó"
+  size: 27
+
+decor:
+  corners:
+    - 0
+    - 8
+    - 18
+    - 26
+  material: OAK_LEAVES
+
+servers:
+  blackcraft:
+    material: DIAMOND_SWORD
+    slot: 10
+    name: "&2&lBlack&9&lCraft"
+    lore:
+      - "&fIdk adj valami leírást!"
+    server: "blackcraft"
+  bosscraft:
+    material: NETHER_STAR
+    slot: 14
+    name: "&4&lBoss&f&lCraft"
+    lore:
+      - "&fIdk adj valami leírást!"
+    server: "bosscraft"
+  kreativ:
+    material: WOODEN_AXE
+    slot: 16
+    name: "&5&lKreatív"
+    lore:
+      - "&fIdk adj valami leírást"
+    server: "kreativ"
+  wolfex:
+    material: GOLDEN_APPLE
+    slot: 12
+    name: "&6&lWolfex"
+    lore:
+      - "&fIdk adj valami leírást"
+    server: "combofly"
